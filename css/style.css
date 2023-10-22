@@ -16,30 +16,30 @@ img {
 h1 {
     font-size: 450%;
     font-weight: 500;
-    background-color:rgb(0, 0, 0);
+    background-color:rgb(133, 255, 233);
 display: flex;
 color: #ffffff;
 
 font-family: 'Courier New', monospace;
 flex-direction: column;
-height:710px;
+height:500px;
 justify-content: center;
 align-items:center;
 
 }
 
 h2 {
-    font-weight: 200;
+    font-weight: 500;
     font-size: 350%;
     background-color:rgb(0, 0, 0);
 display: flex;
 color: #ffffff;
-font-family: 'Courier New', monospace;
+font-family:'Courier New', monospace;
 border-radius: 23px;
 margin:10px;
 padding:23px;
 flex-direction: column;
-height:90px;
+height:123px;
 justify-content: center;
 align-items:center;
   
@@ -47,13 +47,14 @@ align-items:center;
 
 p{
     font-size: 250%;
+    font-weight: 50;
     color: #00157c;
     text-align: center; 
-    font-family: 'Times New Roman', serif;
+    font-family: 'Courier New', monospace;
     background-color:rgb(255, 255, 255);
 justify-content: center;
 align-items:center;
-padding:23px;
+padding:3px;
 padding-left: 15%;
 padding-right: 15%;
 
@@ -66,12 +67,15 @@ img:hover{
 
 h3 {
     font-size: 250%;
-    background-color:rgb(255, 255, 255);
+    font-weight: 200;
+    background-color:rgb(0, 0, 0);
 display: flex;
 margin:10px;
-font-family: 'Times New Roman', serif;
-color: #ff0000;
+font-family: 'Courier New', monospace;
+color: #ffffff;
+padding:23px;
 border-radius:12px;
+
 flex-direction: column;
 height:30px;
 justify-content: center;
@@ -81,19 +85,34 @@ align-items:center;
 h4 {
     font-weight: 200;
     font-size: 350%;
-    background-color:rgb(255, 255, 255);
 display: flex;
 color: #000000;
 font-family: 'Courier New', monospace;
 
-margin:223px;
-padding-top:-223px;
+margin:100px;
+padding-top: 33px;
 flex-direction: column;
-height:50px;
+height:13px;
 justify-content: center;
 align-items:center;
   
 }
 
 
+h6{
+    color: rgb(0, 0, 0);
+    font-size: 250%;
+    font-weight: 900;
+   
+    text-align: center; 
+    font-family: 'Courier New', monospace;
+    background-color:rgb(255, 255, 255);
+justify-content: center;
+align-items:center;
+padding:23px;
+padding-top: 33px;
+padding-left: 15%;
+padding-right: 15%;
+
+}
 
